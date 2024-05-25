@@ -1,0 +1,20 @@
+{
+  "name": "4r_5s_adventure-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sumaira shakeel",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
